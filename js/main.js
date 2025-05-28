@@ -17,11 +17,11 @@ const projects = [
         difficulty: "Intermediate"
     },
     {
-        title: "PNG to Vector Converter",
-        description: "Converts raster images to scalable vector graphics (SVG) using computational geometry algorithms.",
-        tech: ["Python", "OpenCV", "Potrace"],
-        github: "#",
-        demo: "https://urlresize.netlify.app/",
+        title: "Crime Reporting Map Application",
+        description: "A web-based application that allows community members to report and visualize crime incidents on an interactive map. Users can add pins to mark locations where crimes have occurred, with details about the incident type, date, and description. ",
+        tech: ["Js", "Leaflet.js","HTML"],
+        github: "https://github.com/LaplaceMkhabela/CrimeMapper",
+        demo: "https://crimemapp.netlify.app/",
         difficulty: "Intermediate"
     },
     {
